@@ -1,0 +1,245 @@
+[
+  {
+    "ID": 1,
+    "Category": "Personal Info",
+    "Subcategory": "Contact",
+    "Description": "Name: Leonardo Luca Araujo Teixeira, Email: luca_leonardo@hotmail.com, Phone: +55 (81) 99133-7728, LinkedIn: www.linkedin.com/in/leonardo-luca-araujo-teixeira-577475130",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": "Recife, Pernambuco, Brazil"
+  },
+  {
+    "ID": 2,
+    "Category": "Personal Info",
+    "Subcategory": "Summary",
+    "Description": "Fullstack software developer with strong technical and soft skills, seeking new challenges and professional growth. Experienced in front-end and back-end development, and project management, proficient in Python, Node.JS, React.JS, Java SpringBoot, MySQL, and PostgreSQL. Skilled in agile methodologies like Scrum and Kanban, REST APIs, Git, and complex SQL queries. Currently an Analyst Prime at Neurotech, focusing on credit policy development using Decision Designer (low-code BPM tool using Java) and credit area support, including credit rule parameterization, validation, homologation, API integration with credit bureaus, and process improvement with Python. Strong team player with effective communication and problem-solving skills, passionate about continuous learning and adapting to new technologies.",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 3,
+    "Category": "Skills",
+    "Subcategory": "Technical",
+    "Description": "React.js",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 4,
+    "Category": "Skills",
+    "Subcategory": "Technical",
+    "Description": "Python (Programming Language)",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 5,
+    "Category": "Skills",
+    "Subcategory": "Technical",
+    "Description": "Java",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 6,
+    "Category": "Languages",
+    "Subcategory": "Language Proficiency",
+    "Description": "Spanish (Limited Working)",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 7,
+    "Category": "Languages",
+    "Subcategory": "Language Proficiency",
+    "Description": "English (Professional Working)",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 8,
+    "Category": "Languages",
+    "Subcategory": "Language Proficiency",
+    "Description": "Portuguese (Native or Bilingual)",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 9,
+    "Category": "Certifications",
+    "Subcategory": "Certification",
+    "Description": "Treinamento LGPD",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 10,
+    "Category": "Certifications",
+    "Subcategory": "Certification",
+    "Description": "Certificado de Participação - IA Generativa na Pesquisa Acadêmica: Introdução e Prática da Engenharia de Prompt",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 11,
+    "Category": "Certifications",
+    "Subcategory": "Certification",
+    "Description": "Python Basics",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 12,
+    "Category": "Certifications",
+    "Subcategory": "Certification",
+    "Description": "Inicio do projeto: Como começar um projeto bem-sucedido",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 13,
+    "Category": "Certifications",
+    "Subcategory": "Certification",
+    "Description": "Training Force Fase 3",
+    "Start_Date": null,
+    "End_Date": null,
+    "Location": null
+  },
+  {
+    "ID": 14,
+    "Category": "Experience",
+    "Subcategory": "Analista de Sistemas I",
+    "Description": "Neurotech, Analyst Prime (since July 2024) and Systems Analyst I (June 2023 - Present). Developed and adjusted credit policies using Decision Designer (low-code BPM tool using Java), supported credit area operations, automated processes with Python and Kettle (RPA), parameterized credit rules (e.g., credit granting, scoring models, restrictions), participated in validation, homologation, and implementation processes, integrated credit bureau queries and tables via API, and mapped and improved processes with Python. Initially worked in Operations (Management sector) handling internal client training, then moved to Credit sector (December 2023) managing client tickets via Topdesk and developing Java-based systems for client business rules. Exclusively served Lojas Renner as Analyst Prime.",
+    "Start_Date": "2023-06-01",
+    "End_Date": null,
+    "Location": "Recife, Pernambuco, Brazil"
+  },
+  {
+    "ID": 15,
+    "Category": "Experience",
+    "Subcategory": "Desenvolvedor Full Stack",
+    "Description": "COMEIA, Full Stack Developer (July 2022 - June 2023). Developed and maintained backend applications using PHP, Node.JS, and React.JS, improving application performance by 20% and reducing bug reports by 30%. Applied agile methodologies (Scrum, Kanban) achieving 90% sprint completion rate. Used REST APIs and Git for version control, reducing development time by 25% and merge conflicts by 40%. Designed and maintained MySQL and PostgreSQL databases, wrote complex SQL queries, and optimized MongoDB performance.",
+    "Start_Date": "2022-07-01",
+    "End_Date": "2023-06-30",
+    "Location": "Recife, Pernambuco, Brazil"
+  },
+  {
+    "ID": 16,
+    "Category": "Experience",
+    "Subcategory": "Estudante de Salesforce",
+    "Description": "SoulCode Academy, Salesforce Student (March 2022 - June 2022). Studied Sales Cloud, Service Cloud, Apex, LWC, SQL, SOQL, HTML/CSS/JavaScript. Learned CRM concepts, Salesforce Admin, security, OOP (classes and methods), database management (SOQL, NoSQL), web development (HTML5, CSS3, JavaScript), LWC, Triggers, VisualForce, and Aura components. Trailhead Profile: https://trailblazer.me/id/leoluca.",
+    "Start_Date": "2022-03-01",
+    "End_Date": "2022-06-30",
+    "Location": "Recife, Pernambuco, Brazil"
+  },
+  {
+    "ID": 17,
+    "Category": "Experience",
+    "Subcategory": "Engenheiro Mecânico",
+    "Description": "Callidus Engenharia, Mechanical Engineer (March 2021 - May 2022). Conducted safety inspections (NR-13, NR-12, NR-10), designed HVAC systems (climate control, refrigeration, air renewal), prepared technical reports, and worked on industrial projects (electrical, hydraulic, mechanical, piping).",
+    "Start_Date": "2021-03-01",
+    "End_Date": "2022-05-31",
+    "Location": "Recife, Pernambuco, Brazil"
+  },
+  {
+    "ID": 18,
+    "Category": "Experience",
+    "Subcategory": "Intern",
+    "Description": "White Martins, Intern (November 2018 - November 2019). Monitored preventive maintenance on pressure vessels (valve replacement, welding, vacuum system checks), supported corrective maintenance, conducted NR-13 inspections, managed technical reports, and worked on improvement projects (5S implementation, vacuum pump sizing). Performed predictive maintenance (vibration analysis) and planned maintenance for rotating equipment.",
+    "Start_Date": "2018-11-01",
+    "End_Date": "2019-11-30",
+    "Location": "Jaboatão dos Guararapes, Pernambuco, Brazil"
+  },
+  {
+    "ID": 19,
+    "Category": "Experience",
+    "Subcategory": "Controller",
+    "Description": "Grupo Parvi, Controller (April 2018 - July 2018). Analyzed performance indicators, applied 5S, managed personnel, oversaw mechanical and bodywork shop operations, and provided service consultancy.",
+    "Start_Date": "2018-04-01",
+    "End_Date": "2018-07-31",
+    "Location": "Recife, Pernambuco, Brazil"
+  },
+  {
+    "ID": 20,
+    "Category": "Experience",
+    "Subcategory": "Analista Comercial",
+    "Description": "Promedic, Commercial Analyst (June 2016 - November 2016).  Created Excel spreadsheets, organized client requests, dispatched orders, and coordinated with salespeople.",
+    "Start_Date": "2016-06-01",
+    "End_Date": "2016-11-30",
+    "Location": null
+  },
+  {
+    "ID": 21,
+    "Category": "Experience",
+    "Subcategory": "Assistente Administrativo",
+    "Description": "NutriBrasilNet, Administrative Assistant (August 2015 - April 2016). Organized and controlled online and physical sales, created Excel spreadsheets, and managed sales and salespeople.",
+    "Start_Date": "2015-08-01",
+    "End_Date": "2016-04-30",
+    "Location": null
+  },
+  {
+    "ID": 22,
+    "Category": "Experience",
+    "Subcategory": "Assistente Administrativo",
+    "Description": "Universidade Federal de Pernambuco, Administrative Assistant (January 2015 - July 2015). Provided administrative and technical support in HR, administration, finance, and logistics, handled user inquiries, processed documents, and prepared reports and spreadsheets.",
+    "Start_Date": "2015-01-01",
+    "End_Date": "2015-07-31",
+    "Location": null
+  },
+  {
+    "ID": 23,
+    "Category": "Education",
+    "Subcategory": "Mestrado",
+    "Description": "CESAR School, Master's in Software Engineering (October 2024 - October 2026).",
+    "Start_Date": "2024-10-01",
+    "End_Date": "2026-10-31",
+    "Location": null
+  },
+  {
+    "ID": 24,
+    "Category": "Education",
+    "Subcategory": "Pós-graduação",
+    "Description": "Faculdade Estratego, Postgraduate Specialization in Software Engineering and Project Management (August 2023 - August 2024).",
+    "Start_Date": "2023-08-01",
+    "End_Date": "2024-08-31",
+    "Location": null
+  },
+  {
+    "ID": 25,
+    "Category": "Education",
+    "Subcategory": "Pós-graduação",
+    "Description": "UniCesumar, Postgraduate Specialization in System Development with Python (January 2024 - December 2024).",
+    "Start_Date": "2024-01-01",
+    "End_Date": "2024-12-31",
+    "Location": null
+  },
+  {
+    "ID": 26,
+    "Category": "Education",
+    "Subcategory": "Bacharelado",
+    "Description": "Universidade Salvador, Bachelor's in Electrical and Electronic Engineering (July 2021 - December 2023).",
+    "Start_Date": "2021-07-01",
+    "End_Date": "2023-12-31",
+    "Location": null
+  },
+  {
+    "ID": 27,
+    "Category": "Education",
+    "Subcategory": "Bacharelado",
+    "Description": "Wyden Educacional, Bachelor's in Mechanical Engineering (2015 - 2020).",
+    "Start_Date": "2015-01-01",
+    "End_Date": "2020-12-31",
+    "Location": null
+  }
+]
